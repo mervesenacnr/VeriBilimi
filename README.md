@@ -1,2 +1,1 @@
-# VeriBilimi
- Engin Deniz Alpman eğitmenin bize verdiği "Veri Bilimi" kursunu bitirme projesidir. (Patika.dev)
+<h1 style="color:blue;">Veri Bilimi</h1>
