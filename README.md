@@ -31,8 +31,15 @@ Data Science is collected under 3 main headings:
   Machine Learning has 2 areas:
   <li>Applied Machine Learning</li>
    <li>Machine Learning Research</li>
- If you want to learn more about "What is Data Science" here is a link for you to read. 👉https://www.ibm.com/topics/machine-learning
+ If you want to learn more about "What is Machine Learning" here is a link for you to read. 👉https://www.ibm.com/topics/machine-learning
   </p>
 
-<h3>⚙ Let's </h3>
+<h3>⚙ Let's learn some Data Science terms! 🤖</h3>
+
+<p>
+  <strong>Supervised</strong>: Supervised learning is to take output from labeled models.<br>
+  If you want to learn more about "What is Machine Learning" here is a link for you to read.  👉https://www.ibm.com/topics/supervised-learning <br>
+  <strong>Unsupervised</strong>: Unsupervised learning is grouping unlabeled models. <br>
+  If you want to learn more about "What is Machine Learning" here is a link for you to read. 👉https://www.ibm.com/topics/unsupervised-learning <br>
+  </p>
 
