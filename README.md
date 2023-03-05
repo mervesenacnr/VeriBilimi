@@ -1,1 +1,1 @@
-<h1 style="text-align:center;>Veri Bilimi</h1>
+<h1 style="text-align:center;">Veri Bilimi</h1>
