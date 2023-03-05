@@ -34,12 +34,17 @@ Data Science is collected under 3 main headings:
  If you want to learn more about "What is Machine Learning" here is a link for you to read. 👉https://www.ibm.com/topics/machine-learning
   </p>
 
-<h3>⚙ Let's learn some Data Science terms! 🤖</h3>
+<h3>⚙ Let's learn some Data Science terms! 🦾🤖</h3>
 
 <p>
-  <strong>Supervised</strong>: Supervised learning is to take output from labeled models.<br>
-  If you want to learn more about "What is Machine Learning" here is a link for you to read.  👉https://www.ibm.com/topics/supervised-learning <br>
-  <strong>Unsupervised</strong>: Unsupervised learning is grouping unlabeled models. <br>
-  If you want to learn more about "What is Machine Learning" here is a link for you to read. 👉https://www.ibm.com/topics/unsupervised-learning <br>
+  <li><strong>Supervised</strong>: Supervised learning is to take output from labeled models. 👉https://www.ibm.com/topics/supervised-learning</li> 
+  <li><strong>Unsupervised</strong>: Unsupervised learning is grouping unlabeled models. 👉https://www.ibm.com/topics/unsupervised-learning</li>
+  <li><strong>Regression</strong>: Estimated data are constantly variable. 👉https://www.investopedia.com/terms/r/regression.asp </li>
+  <li><strong>Classification</strong>: Estimated data are in certain categories. 👉https://www.techtarget.com/searchdatamanagement/definition/data-classification</li> 
+  Also you need to know that 😏:
+  <li>Regression ≌ Classification.</li>
+  <li>There is no absolute 0 reference in "interval", but there is in "ratio".</li>
   </p>
+  
+  
 
