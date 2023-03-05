@@ -65,7 +65,7 @@ In short 🤐, I split the "train" into 3:
 </p>
 
 <p>Author of this article ✍: <strong> Merve Sena Çınar </strong> <br>
-follow me on LinkedIn 💁‍♀️ https://www.linkedin.com/in/mervesenacinar/ 
+Follow me on LinkedIn 💁‍♀️ https://www.linkedin.com/in/mervesenacinar/ 
 </p>
 
   
