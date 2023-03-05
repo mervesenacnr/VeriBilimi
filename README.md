@@ -44,7 +44,11 @@ Data Science is collected under 3 main headings:
   Also you need to know that 😏:
   <li>Regression ≌ Classification.</li>
   <li>There is no absolute 0 reference in "interval", but there is in "ratio".</li>
-  </p>
+  <li>There is no  contiuous variable.</li>
+  <li><strong>Prediction</strong>: We have a lot of data and we try to correctly guess the answer to a question from this data. For example, we have data such as the height, leaves and color of a flower, and we can estimate whether the flower is poisonous by looking at these data.
+  <li>Mapping: f(x1,x2,x3)= </li> 
+</p>
   
   
+
 
