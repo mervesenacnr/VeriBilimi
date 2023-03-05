@@ -61,7 +61,11 @@ In short 🤐, I split the "train" into 3:
 
 <h3>⚙ What is Bias Statics? 🤔</h3>
 <p>
-  Bias is when the model <strong>systematically discriminates</strong>. Models carry the ideas of the people who created them. That's why every model is as objective as its designer.
+  Bias is when the model <strong>systematically discriminates</strong>. Models carry the ideas of the people who created them. That's why every model is as objective as its designer. (Look "overstimate and "understimate") 👉https://www.statisticshowto.com/what-is-bias/
+</p>
+
+<p>Author of this article ✍: <strong> Merve Sena Çınar </strong> <br>
+follow me on LinkedIn 💁‍♀️ https://www.linkedin.com/in/mervesenacinar/ 
 </p>
 
   
